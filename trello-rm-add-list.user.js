@@ -10,9 +10,9 @@
 // @grant        none
 // ==/UserScript==
 
-(function() {
+window.onload = function() {
     'use strict';
 
     var element = document.querySelector('.js-add-list');
     element.parentNode.removeChild(element);
-})();
+};
