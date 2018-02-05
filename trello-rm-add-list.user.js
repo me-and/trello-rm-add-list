@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove Trello Add List
 // @namespace    me_and
-// @version      1.0.0
+// @version      1.0.1
 // @description  Remove Trello's Add List option
 // @author       Adam Dinwoodie
 // @copyright    2017, Adam Dinwoodie
